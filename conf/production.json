@@ -3,13 +3,13 @@
     "logo": "/logo.png",
     "sitename": "政誌",
     "mission": "勿忘政治",
-    "fb_appid": 113809385333711
+    "fb_appid": 1
   },
   "index": {
-    "source": "https://spreadsheets.google.com/feeds/list/0AuwTztKH2tKidGZ2cEdVY19PZEpzRWVJWWZOeUI1Y0E/od6/public/values?alt=json"
+    "source": "https://spreadsheets.google.com/feeds/list/1iXnKZtF5vxPSw17KjPylbf4eHEalMRGfdTfQNUyoSS0/od6/public/values?alt=json"
   },
   "category": {
-    "source": "https://spreadsheets.google.com/feeds/list/0AuwTztKH2tKidGZ2cEdVY19PZEpzRWVJWWZOeUI1Y0E/od7/public/values?alt=json"
+    "source": "https://spreadsheets.google.com/feeds/list/1iXnKZtF5vxPSw17KjPylbf4eHEalMRGfdTfQNUyoSS0/od7/public/values?alt=json"
   },
   "wikipedia": {
     "scheme": "http://",
@@ -18,7 +18,7 @@
     "api": "w/api.php?action={action}&prop={prop}&format=json&titles=",
     "min_length": 40
   },
-  "base": "/home/nodejs/node/twangry",
+  "base": "/home/twangry",
   "parser": "zhdateparser",
   "cache": 1,
   "port": 8080,
